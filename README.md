@@ -1,5 +1,3 @@
-Plotting dependencies y=f(x).
-Tools for research and design of the resulting graphs.
+Plotting, research and design dependencies y=f(x).
 
-Построение графиков зависимостей y=f(x).
-Инструменты исследования и оформления полученных графиков.
+Построение, исследование и оформление графиков зависимостей y=f(x).
